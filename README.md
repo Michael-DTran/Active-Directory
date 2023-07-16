@@ -21,10 +21,10 @@ To ensure a consistent IP address for our Domain Controller and avoid changes fr
 
 Furthermore, we have configured the DNS settings to point to the Virtual Network's concealed DNS Server. We aim for our Client to utilize our Domain Controller as its designated DNS server. These project configurations will facilitate seamless communication between our virtual machines and enable streamlined interaction among them.
 
-Configured when we make our Virtual Machines
+**Configured when we make our Virtual Machines**
 ![AD1 1](https://github.com/Michael-DTran/Active-Directory/assets/112426094/352bab3b-fe75-4980-a382-f421614df88b)
 
-After we make our necessary adjustments.
+**After we make our necessary adjustments**
 ![AD2 1](https://github.com/Michael-DTran/Active-Directory/assets/112426094/4b7e63f4-986f-4fd1-a983-06ea24c73c2d)
 
 # Environments and Technologies Used
