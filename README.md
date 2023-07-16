@@ -1,4 +1,4 @@
-# Link to Directions
+# Link to Instructions
 [Instructions](https://docs.google.com/document/d/1we9svtXa0xQZ3DKBp-ZcrtDgtGvlZaS6XrP6euIt1Gw/edit?usp=sharing)
 
 # Overview 
