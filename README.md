@@ -1,5 +1,5 @@
 # Link to Directions
-[Instructions]([https://docs.google.com/document/d/1we9svtXa0xQZ3DKBp-ZcrtDgtGvlZaS6XrP6euIt1Gw/edit?usp=sharing]
+[Instructions](https://docs.google.com/document/d/1we9svtXa0xQZ3DKBp-ZcrtDgtGvlZaS6XrP6euIt1Gw/edit?usp=sharing)
 
 # Overview 
 The purpose of Active Directory in IT is to provide a centralized and organized directory service for managing network resources within a Windows domain environment. Active Directory (AD) is a Microsoft technology that primarily functions as a directory service for Windows-based networks.
