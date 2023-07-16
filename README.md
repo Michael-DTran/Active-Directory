@@ -24,3 +24,14 @@ Furthermore, we have configured the DNS settings to point to the Virtual Network
 ![AD1 1](https://github.com/Michael-DTran/Active-Directory/assets/112426094/352bab3b-fe75-4980-a382-f421614df88b)
 
 ![AD2 1](https://github.com/Michael-DTran/Active-Directory/assets/112426094/4b7e63f4-986f-4fd1-a983-06ea24c73c2d)
+
+# Environments and Technologies Used
+- Azure (Virtual Machines/Compute)
+- Remote Desktop
+- Active Directory Domain Services
+- Powershell
+
+# Operating Systems Used
+- Windows Server 2022
+- Windows 10 (21H2)
+  
